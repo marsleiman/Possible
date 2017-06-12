@@ -252,6 +252,31 @@ hr {
   background-size: 100%;
 }
 
+.img-box4{
+  position: relative;
+  width: 400px;
+  height: 440px;
+  background-image: url(img/a.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.img-box5{
+  position: relative;
+  width: 400px;
+  height: 440px;
+  background-image: url(img/b.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.img-box6{
+  position: relative;
+  width: 400px;
+  height: 440px;
+  background-image: url(img/c.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
 .btn-carousel1{
     position: absolute;
     margin: 30px 20px;
